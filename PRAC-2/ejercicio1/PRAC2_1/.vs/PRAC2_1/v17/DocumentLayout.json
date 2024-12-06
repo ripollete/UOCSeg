@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|c:\\users\\user\\onedrive\\uoc\\servidores\\entregableprac2\\ejercicio1\\prac2_1\\prac2_1\\views\\news\\newsblindsqlinjectionsol1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\views\\news\\newsblindsqlinjectionsol1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|c:\\users\\user\\onedrive\\uoc\\servidores\\entregableprac2\\ejercicio1\\prac2_1\\prac2_1\\views\\news\\newsblindsqlinjectionsol2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\views\\news\\newsblindsqlinjectionsol2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|c:\\users\\user\\onedrive\\uoc\\servidores\\entregableprac2\\ejercicio1\\prac2_1\\prac2_1\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\prac2_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\prac2_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PRAC2_1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\prac2_1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Documentos\\IISExpress\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\prac2_1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\prac2_1\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\prac2_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\prac2_1\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\prac2_1\\views\\news\\newsblindsqlinjection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DFE32A6-A4FE-460D-8424-E96221737426}|PRAC2_1\\PRAC2_1.csproj|solutionrelative:prac2_1\\views\\news\\newsblindsqlinjection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsBlindSqlInjectionSol1.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Views\\News\\NewsBlindSqlInjectionSol1.cshtml",
+              "RelativeDocumentMoniker": "PRAC2_1\\Views\\News\\NewsBlindSqlInjectionSol1.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Views\\News\\NewsBlindSqlInjectionSol1.cshtml",
+              "RelativeToolTip": "PRAC2_1\\Views\\News\\NewsBlindSqlInjectionSol1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T20:46:21.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsBlindSqlInjectionSol2.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Views\\News\\NewsBlindSqlInjectionSol2.cshtml",
+              "RelativeDocumentMoniker": "PRAC2_1\\Views\\News\\NewsBlindSqlInjectionSol2.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Views\\News\\NewsBlindSqlInjectionSol2.cshtml",
+              "RelativeToolTip": "PRAC2_1\\Views\\News\\NewsBlindSqlInjectionSol2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T20:44:23.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Web.config",
+              "RelativeDocumentMoniker": "PRAC2_1\\Web.config",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Web.config",
+              "RelativeToolTip": "PRAC2_1\\Web.config",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAD8AAAAXAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T12:43:58.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PRAC2_1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PRAC2_1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:47:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "PRAC2_1\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "PRAC2_1\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:26:07.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "PRAC2_1\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "PRAC2_1\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:36:30.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "PRAC2_1\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "PRAC2_1\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:36:31.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PRAC2_1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PRAC2_1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:36:26.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PRAC2_1",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\PRAC2_1.csproj",
+              "RelativeDocumentMoniker": "PRAC2_1\\PRAC2_1.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\PRAC2_1.csproj",
+              "RelativeToolTip": "PRAC2_1\\PRAC2_1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T21:34:23.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "applicationhost.config",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documentos\\IISExpress\\config\\applicationhost.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documentos\\IISExpress\\config\\applicationhost.config",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documentos\\IISExpress\\config\\applicationhost.config",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documentos\\IISExpress\\config\\applicationhost.config",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAewJ8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-25T21:36:42.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Views\\Web.config",
+              "RelativeDocumentMoniker": "PRAC2_1\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Views\\Web.config",
+              "RelativeToolTip": "PRAC2_1\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-25T21:38:18.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Model1.edmx",
+              "RelativeDocumentMoniker": "PRAC2_1\\Model1.edmx",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "PRAC2_1\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-24T10:12:05.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsBlindSqlInjection.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Views\\News\\NewsBlindSqlInjection.cshtml",
+              "RelativeDocumentMoniker": "PRAC2_1\\Views\\News\\NewsBlindSqlInjection.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\UOC\\Servidores\\EntregablePRAC2\\ejercicio1\\PRAC2_1\\PRAC2_1\\Views\\News\\NewsBlindSqlInjection.cshtml",
+              "RelativeToolTip": "PRAC2_1\\Views\\News\\NewsBlindSqlInjection.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T10:27:42.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

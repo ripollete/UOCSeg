@@ -1,0 +1,1 @@
+http://localhost:44367/News/NewsBlindSqlInjectionSol2?id=1 (GET)  # c:/sqlmap/sqlmap.py -u http://localhost:44367/News/NewsBlindSqlInjectionSol2?id=1 --batch --level=2 --output-dir=c:/sqlmap/output/

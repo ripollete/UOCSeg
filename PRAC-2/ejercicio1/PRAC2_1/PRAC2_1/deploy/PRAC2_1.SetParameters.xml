@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="ejercicio" />
+  <setParameter name="PRAC2_DBEntities-Web.config Connection String" value="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=localhost;initial catalog=PRAC2_DB;user id=servicioWEB;password='StrongPassword@123';encrypt=True;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" />
+</parameters>
